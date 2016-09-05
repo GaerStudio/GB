@@ -1,0 +1,18 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-family: fantasy ;
+    font-size: 64px;
+}
+
+h6 {
+    font-size: 16px;
+    font-family: fantasy;
+}

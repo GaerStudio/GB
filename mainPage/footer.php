@@ -1,7 +1,1 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Gaer
- * Date: 05.09.16
- * Time: 15:34
- */
+<h6> GaerStudio<sup>&copy;</sup> 2016 </h6>

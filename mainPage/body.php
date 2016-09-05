@@ -1,7 +1,1 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Gaer
- * Date: 05.09.16
- * Time: 15:47
- */
+<p style="color: red; padding-left: 4%"> На сайте ведутся работы <br> Регистрация новых пользователей временно приостановлена </p>
